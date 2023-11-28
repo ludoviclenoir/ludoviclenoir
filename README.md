@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **php**
 
-- 📫 How to reach me **contactœludoviclenoir.be**
+- 📫 How to reach me **contact@ludoviclenoir.be**
 
 - 📄 Know about my experiences [http://www.ludoviclenoir.be/ludovic_lenoir_cv_fevrier_2017.pdf](http://www.ludoviclenoir.be/ludovic_lenoir_cv_fevrier_2017.pdf)
 
