@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ludovic Lenoir</h1>
 <h3 align="center">A web artisan from Belgium</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ludoviclenoir&label=Profile%20views&color=0e75b6&style=flat" alt="ludoviclenoir" /> </p>
-
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ludoviclenoir" alt="ludoviclenoir" /></a> </p> -->
 
 - 📫 How to reach me **contact@ludoviclenoir.be**
@@ -27,3 +25,5 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludoviclenoir&show_icons=true&locale=en" alt="ludoviclenoir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ludoviclenoir&" alt="ludoviclenoir" /></p> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ludoviclenoir&label=Profile%20views&color=0e75b6&style=flat" alt="ludoviclenoir" /> </p>
