@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ludovic Lenoir</h1>
 <h3 align="center">A web artisan from Belgium</h3>
 
-- 📫 How to reach me **contact@ludoviclenoir.be**
+📫 How to reach me **contact@ludoviclenoir.be**
 
-- 📄 Know about my experiences [http://www.ludoviclenoir.be/ludovic_lenoir_cv_fevrier_2017.pdf](http://www.ludoviclenoir.be/ludovic_lenoir_cv_fevrier_2017.pdf)
-- <p align="left">
+📄 Know about my experiences [http://www.ludoviclenoir.be/ludovic_lenoir_cv_fevrier_2017.pdf](http://www.ludoviclenoir.be/ludovic_lenoir_cv_fevrier_2017.pdf)
+
+ <p align="left">
     <a href="https://linkedin.com/in/lenoirludovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lenoirludovic" height="22" width="32" /></a>
   </p>
 
