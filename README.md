@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ludovic Lenoir</h1>
 <h3 align="center">A web artisan from Belgium</h3>
 <br>
-<br>
 
+<div align="center">
 📫 How to reach me **contact@ludoviclenoir.be**
 
 📄 Know about my experiences [http://www.ludoviclenoir.be/ludovic_lenoir_cv_fevrier_2017.pdf](http://www.ludoviclenoir.be/ludovic_lenoir_cv_fevrier_2017.pdf)
 
+</div>
 <p align="left">
     <a href="https://linkedin.com/in/lenoirludovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lenoirludovic" height="22" width="32" /></a>
 </p>
 
 <br>
-<br>
 
 ## My Development Stack
 
-<p align="center"><strong>Programming Languages:</strong></p><br>
 <p align="left">
+  <strong>Programming Languages:</strong><br>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img style="margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
