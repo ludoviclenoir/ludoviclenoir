@@ -11,8 +11,6 @@
 
 ## My Development Stack
 
-## My Development Stack
-
 <p align="left">
   <strong>Programming Languages:</strong><br>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
