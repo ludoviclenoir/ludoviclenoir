@@ -17,7 +17,7 @@
 ## My Development Stack
 
 <p align="left">
-  <strong>Programming Languages:</strong><br>
+  <strong>Programming Languages:</strong><br><br>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img style="margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
