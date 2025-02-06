@@ -14,6 +14,7 @@
 
 <p align="left">
   <!-- Programming Languages -->
+  <strong>Programming Languages:</strong><br>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
@@ -23,19 +24,35 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-
+  
+  <br><br>
+  <!-- Markup & Styling -->
+  <strong>Markup & Styling:</strong><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  
+  <br><br>
   <!-- Frameworks & Libraries -->
+  <strong>Frameworks & Libraries:</strong><br>
+  <!-- Laravel via Simple Icons -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/laravel.svg" alt="Laravel" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
+  <!-- Tailwind CSS via Simple Icons -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
-
+  
+  <br><br>
   <!-- Databases -->
+  <strong>Databases:</strong><br>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="40" height="40"/>
   </a>
@@ -45,8 +62,10 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
   </a>
-
+  
+  <br><br>
   <!-- DevOps & Cloud -->
+  <strong>DevOps & Cloud:</strong><br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
@@ -56,8 +75,10 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   </a>
-
+  
+  <br><br>
   <!-- Tools -->
+  <strong>Tools:</strong><br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -67,8 +88,10 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
   </a>
-
+  
+  <br><br>
   <!-- UI/UX & Design -->
+  <strong>UI/UX & Design:</strong><br>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   </a>
@@ -81,8 +104,18 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/>
   </a>
-
-  <!-- OS -->
+  
+  <br><br>
+  <!-- Search & Others -->
+  <strong>Search & Others:</strong><br>
+  <!-- Algolia via Simple Icons -->
+  <a href="https://www.algolia.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/algolia.svg" alt="Algolia" width="40" height="40"/>
+  </a>
+  
+  <br><br>
+  <!-- Operating Systems -->
+  <strong>Operating Systems:</strong><br>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
