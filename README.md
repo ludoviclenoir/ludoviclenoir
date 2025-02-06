@@ -139,4 +139,4 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ludoviclenoir&label=Profile%20views&color=0e75b6&style=flat" alt="ludoviclenoir" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ludoviclenoir&label=Profile%20views&color=0e75b6&style=flat" alt="ludoviclenoir" /> </p>
