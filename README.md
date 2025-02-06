@@ -8,7 +8,7 @@
 📄 Know about my experiences [http://www.ludoviclenoir.be/ludovic_lenoir_cv_fevrier_2017.pdf](http://www.ludoviclenoir.be/ludovic_lenoir_cv_fevrier_2017.pdf)
 
 </div>
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/lenoirludovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lenoirludovic" height="22" width="32" /></a>
 </p>
 
