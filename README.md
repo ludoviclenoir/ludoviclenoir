@@ -9,6 +9,7 @@
     <a href="https://linkedin.com/in/lenoirludovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lenoirludovic" height="22" width="32" /></a>
 </p>
 
+
 ## My Development Stack
 
 <p align="left">
@@ -70,9 +71,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width
-::contentReference[oaicite:1]{index=1}
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40"/>
+  </a>
+</p>
 
 ## Tech Skills
 
