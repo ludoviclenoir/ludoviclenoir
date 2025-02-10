@@ -120,7 +120,7 @@
     <img style="margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
-    <img style="margin-right:5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apple.svg" alt="macOS" width="40" height="40"/>
+<img style="margin-right:5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apple.svg" alt="macOS" width="40" height="40"/>
   </a>
 </p>
 
@@ -137,7 +137,6 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ludoviclenoir&" alt="ludoviclenoir" /></p> -->
 
-<br>
 <br>
 <br>
 <br>
