@@ -54,7 +54,7 @@
   <strong>Tools:</strong><br><br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/></a>&nbsp;
   <a href="https://gulpjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="Gulp" width="40" height="40"/></a>&nbsp;
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="70" height="70"/></a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/></a>
 </p>
 
 <p align="left">
