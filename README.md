@@ -116,7 +116,7 @@
 
 <p align="left">
   <strong>Operating Systems:</strong><br><br>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img style="margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/><\a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img style="margin-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img style="margin-right:5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apple.svg" alt="macOS" width="40" height="40"/></a>
 </p>
 
