@@ -84,6 +84,8 @@ PUBLIC
 PRIVATE
 <p><img align="left" src="https://vercel-stat-ludoviclenoirs-projects.vercel.app/api/top-langs?username=ludoviclenoir&show_icons=true&locale=en&layout=compact" alt="ludoviclenoir" /></p>
 
+![Ludovic Lenoir GitHub stats](https://vercel-stat-ludoviclenoirs-projects.vercel.app/api?username=ludoviclenoir&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 <!-- TODO ici déployé ma propre instance pour voir les repos privés
 
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-your-own
