@@ -78,7 +78,11 @@
 
 ## Tech Skills
 
+PUBLIC
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ludoviclenoir&show_icons=true&locale=en&layout=compact" alt="ludoviclenoir" /></p>
+PRIVATE
+<p><img align="left" src="https://vercel-stat-ludoviclenoirs-projects.vercel.app/api/top-langs?username=ludoviclenoir&show_icons=true&locale=en&layout=compact" alt="ludoviclenoir" /></p>
 
 <!-- TODO ici déployé ma propre instance pour voir les repos privés
 
