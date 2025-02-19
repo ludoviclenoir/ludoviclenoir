@@ -76,6 +76,7 @@
   <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apple.svg" alt="macOS" width="40" height="40"/></a>
 </p>
 
+<!--
 ## Tech Skills
 
 PUBLIC
@@ -86,7 +87,7 @@ PRIVATE
 
 ![Ludovic Lenoir GitHub stats](https://vercel-stat-ludoviclenoirs-projects.vercel.app/api?username=ludoviclenoir&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-<!-- TODO ici déployé ma propre instance pour voir les repos privés
+
 
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-your-own
  + tutorial youtube  -->
@@ -95,10 +96,10 @@ https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#deploy-on-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ludoviclenoir&" alt="ludoviclenoir" /></p> -->
 
+<!-- <br>
 <br>
 <br>
 <br>
-<br>
-<br>
+<br> -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ludoviclenoir&label=Profile%20views&color=0e75b6&style=flat" alt="ludoviclenoir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ludoviclenoir&label=Profile%20views&color=0e75b6&style=flat" alt="ludoviclenoir" /> </p>
